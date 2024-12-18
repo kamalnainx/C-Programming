@@ -1,0 +1,12 @@
+
+Name: amit 
+Marks=12 
+
+Name: amita 
+Marks=32 
+
+Name: jain 
+Marks=76 
+
+Name: jaini 
+Marks=87 
